@@ -1,6 +1,6 @@
 package operator;
 
-public class Oparator_demo {
+public class Operator1 {
 
     public static void  main(String[] args)
     {
@@ -22,9 +22,18 @@ public class Oparator_demo {
   //   System.out.println("a");
   //   System.out.println("a++ - --b + b++ + a++ - b++");
    
-   // logcal
-    System.out.println("true");
+   // logical
+    boolean a =true;
+    boolean b = false;
 
+    System.out.println("false&&false");
+    
+    System.out.println("true&&false");
+    System.out.println("false&&true");
+    System.out.println("true&&true");
+
+    // realtional 
+    
     }
      
 }
