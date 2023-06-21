@@ -34,6 +34,18 @@ public class Operator1 {
 
     // realtional 
     
+    System.out.println("a<b");
+    
+    System.out.println("a>b");
+    
+    System.out.println("a<=b");
+    
+    System.out.println("a>=b");
+    
+    System.out.println("a==b");
+    
+    System.out.println("a!=b");
+
     }
      
 }
