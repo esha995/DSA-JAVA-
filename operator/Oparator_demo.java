@@ -23,7 +23,7 @@ public class Oparator_demo {
   //   System.out.println("a++ - --b + b++ + a++ - b++");
    
    // logcal
-    System.out.println("a");
+    System.out.println("true");
 
     }
      
