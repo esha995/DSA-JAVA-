@@ -6,7 +6,7 @@ public class First {
         int[] output = new int[n];
         int[] leftProduct = new int[n];
         int[] rightProduct = new int[n];
-
+// except self product of all element
         leftProduct[0] = 1;
         rightProduct[n - 1] = 1;
 
